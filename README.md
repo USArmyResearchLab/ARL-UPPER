@@ -200,4 +200,4 @@ A trained model is applicable if the groups of the test set are a subset of thos
 For details of UPPER's descriptors, see [J. Pharm. 103:2710-2723, 2014](https://onlinelibrary.wiley.com/doi/full/10.1002/jps.24033).
 
 ## <a name="license"/></a>License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
+This project is licensed under the Apache 2.0 license.
