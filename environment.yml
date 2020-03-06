@@ -1,0 +1,14 @@
+name: upper
+
+channels:
+- rdkit
+- conda-forge
+- mvdbeek
+
+dependencies:
+- python=3.7
+- rdkit
+- scikit-learn
+- networkx
+- xgboost
+- multiprocessing-logging
